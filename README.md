@@ -1,6 +1,6 @@
 # Instant Account Verification (IAV) Quickstart
 
-_note: For a more complete discussion of Link Money's IAV offering, see (Link Money's IAV documentation.)[https://www.notion.so/fingoal/Instant-Account-Verification-IAV-4b3551681e3f49d09251a6b4122c9b65]._
+_note: For a more complete discussion of Link Money's IAV offering, see [Link Money's IAV documentation.](https://www.notion.so/fingoal/Instant-Account-Verification-IAV-4b3551681e3f49d09251a6b4122c9b65)._
 
 This quickstart guide is aimed at developers who are either: 
 1. Building an IAV implementation for the first time 
